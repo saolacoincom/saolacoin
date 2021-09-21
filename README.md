@@ -32,7 +32,7 @@ Meter requires `Go` 1.12+ and `C` compiler to build. To install `Go`, follow thi
 Clone the meter-pov repo:
 
 ```
-git clone https://github.com/meterio/meter-pov.git
+git clone https://github.com/saolacoincom/saolacoin.git
 cd meter-pov
 ```
 
