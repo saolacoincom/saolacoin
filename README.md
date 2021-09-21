@@ -29,11 +29,11 @@ Meter requires `Go` 1.12+ and `C` compiler to build. To install `Go`, follow thi
 
 ### Getting the source
 
-Clone the meter-pov repo:
+Clone the saolacoin repo:
 
 ```
 git clone https://github.com/saolacoincom/saolacoin.git
-cd meter-pov
+cd saolacoin
 ```
 
 
