@@ -12,7 +12,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 // Stakeholder indicates the structure of a Stakeholder

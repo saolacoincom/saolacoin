@@ -8,13 +8,13 @@ package genesis
 import (
 	"math"
 
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/lvldb"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/runtime"
-	"github.com/dfinlab/meter/state"
-	"github.com/dfinlab/meter/tx"
-	"github.com/dfinlab/meter/xenv"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/lvldb"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/runtime"
+	"github.com/saolacoincom/saolacoin/state"
+	"github.com/saolacoincom/saolacoin/tx"
+	"github.com/saolacoincom/saolacoin/xenv"
 	"github.com/pkg/errors"
 )
 

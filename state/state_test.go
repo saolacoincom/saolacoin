@@ -9,8 +9,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/dfinlab/meter/lvldb"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/lvldb"
+	"github.com/saolacoincom/saolacoin/meter"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/stretchr/testify/assert"

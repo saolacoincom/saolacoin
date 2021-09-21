@@ -1,4 +1,4 @@
-PACKAGE = github.com/dfinlab/meter
+PACKAGE = github.com/saolacoincom/saolacoin
 
 FAKE_GOPATH_SUFFIX = $(shell [ -e ".fake_gopath_suffix" ] || date +%s > .fake_gopath_suffix; cat .fake_gopath_suffix)
 FAKE_GOPATH = /tmp/meter-build-$(FAKE_GOPATH_SUFFIX)

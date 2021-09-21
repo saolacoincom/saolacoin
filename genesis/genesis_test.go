@@ -8,9 +8,9 @@ package genesis_test
 import (
 	"testing"
 
-	"github.com/dfinlab/meter/genesis"
-	"github.com/dfinlab/meter/lvldb"
-	"github.com/dfinlab/meter/state"
+	"github.com/saolacoincom/saolacoin/genesis"
+	"github.com/saolacoincom/saolacoin/lvldb"
+	"github.com/saolacoincom/saolacoin/state"
 	"github.com/stretchr/testify/assert"
 )
 

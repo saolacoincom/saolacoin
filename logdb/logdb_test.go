@@ -12,10 +12,10 @@ import (
 	"os/user"
 	"testing"
 
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/logdb"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/logdb"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/tx"
 	"github.com/stretchr/testify/assert"
 )
 

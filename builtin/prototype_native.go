@@ -8,9 +8,9 @@ package builtin
 import (
 	"math/big"
 
-	"github.com/dfinlab/meter/abi"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/xenv"
+	"github.com/saolacoincom/saolacoin/abi"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/xenv"
 	"github.com/ethereum/go-ethereum/common"
 )
 

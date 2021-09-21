@@ -6,8 +6,8 @@
 package tx
 
 import (
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/trie"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/trie"
 	"github.com/ethereum/go-ethereum/rlp"
 )
 

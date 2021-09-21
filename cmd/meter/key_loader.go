@@ -15,8 +15,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dfinlab/meter/consensus"
-	bls "github.com/dfinlab/meter/crypto/multi_sig"
+	"github.com/saolacoincom/saolacoin/consensus"
+	bls "github.com/saolacoincom/saolacoin/crypto/multi_sig"
 	"github.com/ethereum/go-ethereum/crypto"
 	cli "gopkg.in/urfave/cli.v1"
 )

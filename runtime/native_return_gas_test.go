@@ -5,12 +5,12 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/dfinlab/meter/builtin"
-	"github.com/dfinlab/meter/lvldb"
-	"github.com/dfinlab/meter/state"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/tx"
-	"github.com/dfinlab/meter/xenv"
+	"github.com/saolacoincom/saolacoin/builtin"
+	"github.com/saolacoincom/saolacoin/lvldb"
+	"github.com/saolacoincom/saolacoin/state"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/tx"
+	"github.com/saolacoincom/saolacoin/xenv"
 )
 
 func TestNativeCallReturnGas(t *testing.T) {

@@ -8,8 +8,8 @@ package peers
 import (
 	"net/http"
 
-	"github.com/dfinlab/meter/api/utils"
-	"github.com/dfinlab/meter/p2psrv"
+	"github.com/saolacoincom/saolacoin/api/utils"
+	"github.com/saolacoincom/saolacoin/p2psrv"
 	"github.com/gorilla/mux"
 )
 

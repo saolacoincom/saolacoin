@@ -12,8 +12,8 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/p2psrv/rpc"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/p2psrv/rpc"
 	"github.com/ethereum/go-ethereum/common/mclock"
 	"github.com/ethereum/go-ethereum/p2p"
 	"github.com/ethereum/go-ethereum/p2p/discover"

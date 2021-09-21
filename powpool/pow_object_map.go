@@ -12,7 +12,7 @@ import (
 	"sync"
 
 	"github.com/btcsuite/btcd/blockchain"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 	"github.com/inconshreveable/log15"
 )
 

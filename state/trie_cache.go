@@ -6,9 +6,9 @@
 package state
 
 import (
-	"github.com/dfinlab/meter/kv"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/trie"
+	"github.com/saolacoincom/saolacoin/kv"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/trie"
 	lru "github.com/hashicorp/golang-lru"
 )
 

@@ -8,9 +8,9 @@ package accountlock
 import (
 	"net/http"
 
-	"github.com/dfinlab/meter/api/utils"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script/accountlock"
+	"github.com/saolacoincom/saolacoin/api/utils"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script/accountlock"
 	"github.com/gorilla/mux"
 	"github.com/pkg/errors"
 )

@@ -8,11 +8,11 @@ package genesis
 import (
 	"encoding/hex"
 
-	"github.com/dfinlab/meter/abi"
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/state"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/abi"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/state"
+	"github.com/saolacoincom/saolacoin/tx"
 )
 
 const (

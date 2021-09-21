@@ -13,8 +13,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/state"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/state"
 )
 
 // Profile indicates the structure of a Profile

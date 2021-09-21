@@ -14,14 +14,14 @@ import (
 
 	"testing"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script"
-	"github.com/dfinlab/meter/script/accountlock"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script"
+	"github.com/saolacoincom/saolacoin/script/accountlock"
 )
 
 /*
 Execute this test with
-cd /tmp/meter-build-xxxxx/src/github.com/dfinlab/meter/script/accountlock
+cd /tmp/meter-build-xxxxx/src/github.com/saolacoincom/saolacoin/script/accountlock
 GOPATH=/tmp/meter-build-xxxx/:$GOPATH go test
 */
 

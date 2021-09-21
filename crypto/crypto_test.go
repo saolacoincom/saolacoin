@@ -11,13 +11,13 @@ import (
 	"fmt"
 	"testing"
 
-	bls "github.com/dfinlab/meter/crypto/multi_sig"
+	bls "github.com/saolacoincom/saolacoin/crypto/multi_sig"
 	"github.com/ethereum/go-ethereum/crypto"
 )
 
 /*
 Execute this test with
-cd /tmp/meter-build-xxxxx/src/github.com/dfinlab/meter/crypto
+cd /tmp/meter-build-xxxxx/src/github.com/saolacoincom/saolacoin/crypto
 GOPATH=/tmp/meter-build-xxxx/:$GOPATH go test
 */
 

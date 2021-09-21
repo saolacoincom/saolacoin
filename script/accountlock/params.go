@@ -1,6 +1,6 @@
 package accountlock
 
-import "github.com/dfinlab/meter/meter"
+import "github.com/saolacoincom/saolacoin/meter"
 
 const (
 	OP_ADDLOCK    = uint32(1)

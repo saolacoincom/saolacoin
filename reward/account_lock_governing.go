@@ -3,10 +3,10 @@ package reward
 import (
 	"math/big"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script"
-	"github.com/dfinlab/meter/script/accountlock"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script"
+	"github.com/saolacoincom/saolacoin/script/accountlock"
+	"github.com/saolacoincom/saolacoin/tx"
 	"github.com/ethereum/go-ethereum/rlp"
 )
 

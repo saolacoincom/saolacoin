@@ -11,9 +11,9 @@ import (
 	"math/big"
 	"net"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/state"
-	"github.com/dfinlab/meter/types"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/state"
+	"github.com/saolacoincom/saolacoin/types"
 )
 
 // get the bucket that candidate initialized

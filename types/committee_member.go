@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	bls "github.com/dfinlab/meter/crypto/multi_sig"
+	bls "github.com/saolacoincom/saolacoin/crypto/multi_sig"
 	"github.com/ethereum/go-ethereum/crypto"
 )
 

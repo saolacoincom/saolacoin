@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dfinlab/meter/co"
+	"github.com/saolacoincom/saolacoin/co"
 )
 
 func TestParallel(t *testing.T) {

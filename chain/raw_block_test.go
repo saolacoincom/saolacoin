@@ -6,8 +6,8 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/stretchr/testify/assert"
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 func TestRawBlock(t *testing.T) {

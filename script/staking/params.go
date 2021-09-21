@@ -3,7 +3,7 @@ package staking
 import (
 	"math/big"
 
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 const (

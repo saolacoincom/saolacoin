@@ -12,11 +12,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/dfinlab/meter/chain"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script"
-	"github.com/dfinlab/meter/script/auction"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/chain"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script"
+	"github.com/saolacoincom/saolacoin/script/auction"
+	"github.com/saolacoincom/saolacoin/tx"
 	"github.com/ethereum/go-ethereum/rlp"
 )
 

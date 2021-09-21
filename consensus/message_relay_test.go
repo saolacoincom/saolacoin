@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dfinlab/meter/consensus"
+	"github.com/saolacoincom/saolacoin/consensus"
 	"github.com/gonum/stat/combin"
 )
 

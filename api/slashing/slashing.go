@@ -8,8 +8,8 @@ package slashing
 import (
 	"net/http"
 
-	"github.com/dfinlab/meter/api/utils"
-	"github.com/dfinlab/meter/script/staking"
+	"github.com/saolacoincom/saolacoin/api/utils"
+	"github.com/saolacoincom/saolacoin/script/staking"
 	"github.com/gorilla/mux"
 )
 

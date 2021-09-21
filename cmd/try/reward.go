@@ -7,10 +7,10 @@ import (
 	"math/big"
 	"net"
 
-	api_staking "github.com/dfinlab/meter/api/staking"
-	bls "github.com/dfinlab/meter/crypto/multi_sig"
-	"github.com/dfinlab/meter/reward"
-	"github.com/dfinlab/meter/types"
+	api_staking "github.com/saolacoincom/saolacoin/api/staking"
+	bls "github.com/saolacoincom/saolacoin/crypto/multi_sig"
+	"github.com/saolacoincom/saolacoin/reward"
+	"github.com/saolacoincom/saolacoin/types"
 )
 
 /*

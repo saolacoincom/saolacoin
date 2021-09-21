@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/dfinlab/meter/cache"
+	"github.com/saolacoincom/saolacoin/cache"
 )
 
 func TestRandCacheAddRemove(t *testing.T) {

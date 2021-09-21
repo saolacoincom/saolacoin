@@ -8,7 +8,7 @@ package stackedmap_test
 import (
 	"testing"
 
-	"github.com/dfinlab/meter/stackedmap"
+	"github.com/saolacoincom/saolacoin/stackedmap"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package types
 import (
 	"math/big"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/tx"
 )
 
 type ScriptEngineOutput struct {

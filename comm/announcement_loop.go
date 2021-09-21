@@ -6,9 +6,9 @@
 package comm
 
 import (
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/comm/proto"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/comm/proto"
+	"github.com/saolacoincom/saolacoin/meter"
 	"github.com/ethereum/go-ethereum/p2p/discover"
 	"github.com/ethereum/go-ethereum/rlp"
 )

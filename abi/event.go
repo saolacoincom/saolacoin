@@ -6,7 +6,7 @@
 package abi
 
 import (
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 	ethabi "github.com/ethereum/go-ethereum/accounts/abi"
 )
 

@@ -8,7 +8,7 @@ package tx
 import (
 	"encoding/binary"
 
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 // Builder to make it easy to build transaction.

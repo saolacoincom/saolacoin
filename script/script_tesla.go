@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script/staking"
-	"github.com/dfinlab/meter/state"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script/staking"
+	"github.com/saolacoincom/saolacoin/state"
 )
 
 func EnterTeslaForkInit() {

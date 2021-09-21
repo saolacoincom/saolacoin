@@ -13,9 +13,9 @@ import (
 	//sha256 "crypto/sha256"
 	"time"
 
-	bls "github.com/dfinlab/meter/crypto/multi_sig"
-	cmn "github.com/dfinlab/meter/libs/common"
-	types "github.com/dfinlab/meter/types"
+	bls "github.com/saolacoincom/saolacoin/crypto/multi_sig"
+	cmn "github.com/saolacoincom/saolacoin/libs/common"
+	types "github.com/saolacoincom/saolacoin/types"
 	crypto "github.com/ethereum/go-ethereum/crypto"
 )
 

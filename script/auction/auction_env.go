@@ -6,10 +6,10 @@
 package auction
 
 import (
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/state"
-	setypes "github.com/dfinlab/meter/script/types"
-	"github.com/dfinlab/meter/xenv"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/state"
+	setypes "github.com/saolacoincom/saolacoin/script/types"
+	"github.com/saolacoincom/saolacoin/xenv"
 )
 
 //

@@ -6,9 +6,9 @@
 package script
 
 import (
-	"github.com/dfinlab/meter/script/accountlock"
-	"github.com/dfinlab/meter/script/auction"
-	"github.com/dfinlab/meter/script/staking"
+	"github.com/saolacoincom/saolacoin/script/accountlock"
+	"github.com/saolacoincom/saolacoin/script/auction"
+	"github.com/saolacoincom/saolacoin/script/staking"
 )
 
 const (

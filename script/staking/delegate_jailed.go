@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 // Candidate indicates the structure of a candidate

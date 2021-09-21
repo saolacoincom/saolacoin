@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dfinlab/meter/powpool"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/powpool"
+	"github.com/saolacoincom/saolacoin/tx"
 
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 func BuildMinerRewardTxs(rewards []powpool.PowReward, chainTag byte, bestNum uint32) tx.Transactions {

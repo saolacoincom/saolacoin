@@ -3,10 +3,10 @@ package debug
 import (
 	"fmt"
 
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 
 	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/dfinlab/meter/vm"
+	"github.com/saolacoincom/saolacoin/vm"
 )
 
 type TracerOption struct {

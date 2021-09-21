@@ -6,8 +6,8 @@
 package subscriptions
 
 import (
-	"github.com/dfinlab/meter/chain"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/chain"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 type blockReader struct {

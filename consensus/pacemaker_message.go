@@ -15,10 +15,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/powpool"
-	"github.com/dfinlab/meter/types"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/powpool"
+	"github.com/saolacoincom/saolacoin/types"
 	crypto "github.com/ethereum/go-ethereum/crypto"
 )
 

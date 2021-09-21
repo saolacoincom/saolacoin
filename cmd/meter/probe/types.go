@@ -8,9 +8,9 @@ package probe
 import (
 	"errors"
 
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/comm"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/comm"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 //Block block

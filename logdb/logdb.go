@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/tx"
 	sqlite3 "github.com/mattn/go-sqlite3"
 )
 

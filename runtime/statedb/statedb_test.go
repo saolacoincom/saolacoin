@@ -17,10 +17,10 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/dfinlab/meter/lvldb"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/runtime/statedb"
-	State "github.com/dfinlab/meter/state"
+	"github.com/saolacoincom/saolacoin/lvldb"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/runtime/statedb"
+	State "github.com/saolacoincom/saolacoin/state"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 )

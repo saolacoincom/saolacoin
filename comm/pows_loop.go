@@ -6,8 +6,8 @@
 package comm
 
 import (
-	"github.com/dfinlab/meter/comm/proto"
-	"github.com/dfinlab/meter/powpool"
+	"github.com/saolacoincom/saolacoin/comm/proto"
+	"github.com/saolacoincom/saolacoin/powpool"
 )
 
 func (c *Communicator) powsLoop() {

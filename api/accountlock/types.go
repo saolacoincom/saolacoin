@@ -8,8 +8,8 @@ package accountlock
 import (
 	"sort"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script/accountlock"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script/accountlock"
 )
 
 type AccountLockProfile struct {

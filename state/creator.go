@@ -6,8 +6,8 @@
 package state
 
 import (
-	"github.com/dfinlab/meter/kv"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/kv"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 // Creator state creator to cut-off kv dependency.

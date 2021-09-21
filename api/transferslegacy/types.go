@@ -6,9 +6,9 @@
 package transferslegacy
 
 import (
-	"github.com/dfinlab/meter/api/transactions"
-	"github.com/dfinlab/meter/logdb"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/api/transactions"
+	"github.com/saolacoincom/saolacoin/logdb"
+	"github.com/saolacoincom/saolacoin/meter"
 	"github.com/ethereum/go-ethereum/common/math"
 )
 

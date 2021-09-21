@@ -12,16 +12,16 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	. "github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/tx"
+	. "github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/tx"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"
 
 	// "crypto/rand"
-	// cmn "github.com/dfinlab/meter/libs/common"
+	// cmn "github.com/saolacoincom/saolacoin/libs/common"
 
-	"github.com/dfinlab/meter/types"
+	"github.com/saolacoincom/saolacoin/types"
 )
 
 func TestSerialize(t *testing.T) {

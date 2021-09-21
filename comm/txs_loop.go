@@ -6,8 +6,8 @@
 package comm
 
 import (
-	"github.com/dfinlab/meter/comm/proto"
-	"github.com/dfinlab/meter/txpool"
+	"github.com/saolacoincom/saolacoin/comm/proto"
+	"github.com/saolacoincom/saolacoin/txpool"
 )
 
 func (c *Communicator) txsLoop() {

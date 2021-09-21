@@ -6,7 +6,7 @@
 package staking
 
 import (
-	"github.com/dfinlab/meter/types"
+	"github.com/saolacoincom/saolacoin/types"
 )
 
 // staking options

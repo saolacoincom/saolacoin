@@ -6,8 +6,8 @@
 package chain
 
 import (
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 // Seeker to seek block by given number on the chain defined by head block ID.

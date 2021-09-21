@@ -6,8 +6,8 @@
 package block
 
 import (
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/tx"
 )
 
 // XXX: Yang: Builder only build header and txs. evidence/committee info and kblock data built by app.

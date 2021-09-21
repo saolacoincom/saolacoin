@@ -18,9 +18,9 @@ import (
 
 	"github.com/inconshreveable/log15"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script/accountlock"
-	"github.com/dfinlab/meter/state"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script/accountlock"
+	"github.com/saolacoincom/saolacoin/state"
 )
 
 var (

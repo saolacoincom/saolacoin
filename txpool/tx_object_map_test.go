@@ -9,9 +9,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/dfinlab/meter/genesis"
-	"github.com/dfinlab/meter/lvldb"
-	"github.com/dfinlab/meter/tx"
+	"github.com/saolacoincom/saolacoin/genesis"
+	"github.com/saolacoincom/saolacoin/lvldb"
+	"github.com/saolacoincom/saolacoin/tx"
 	"github.com/stretchr/testify/assert"
 )
 

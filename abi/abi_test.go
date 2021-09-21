@@ -11,9 +11,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/assert"
-	"github.com/dfinlab/meter/abi"
-	"github.com/dfinlab/meter/builtin/gen"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/abi"
+	"github.com/saolacoincom/saolacoin/builtin/gen"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 func TestABI(t *testing.T) {

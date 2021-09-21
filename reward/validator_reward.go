@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script/auction"
-	"github.com/dfinlab/meter/types"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script/auction"
+	"github.com/saolacoincom/saolacoin/types"
 	"github.com/ethereum/go-ethereum/crypto"
 )
 

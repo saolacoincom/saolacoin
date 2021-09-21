@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

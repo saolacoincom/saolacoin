@@ -8,7 +8,7 @@ package comm
 import (
 	"context"
 
-	"github.com/dfinlab/meter/block"
+	"github.com/saolacoincom/saolacoin/block"
 )
 
 // NewBlockEvent event emitted when received block announcement.

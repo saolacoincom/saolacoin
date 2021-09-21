@@ -8,8 +8,8 @@ package slashing
 import (
 	"sort"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script/staking"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script/staking"
 )
 
 type DelegateJailed struct {

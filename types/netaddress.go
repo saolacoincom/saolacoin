@@ -18,7 +18,7 @@ import (
 	"strings"
 	"time"
 
-	cmn "github.com/dfinlab/meter/libs/common"
+	cmn "github.com/saolacoincom/saolacoin/libs/common"
 )
 
 // NetAddress defines information about a peer on the network

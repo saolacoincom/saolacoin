@@ -8,7 +8,7 @@ package powpool
 import (
 	"time"
 
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 type powObject struct {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dfinlab/meter/reward"
-	"github.com/dfinlab/meter/script/auction"
+	"github.com/saolacoincom/saolacoin/reward"
+	"github.com/saolacoincom/saolacoin/script/auction"
 )
 
 func calcEpochRelease() {

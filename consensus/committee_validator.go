@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"time"
 
-	bls "github.com/dfinlab/meter/crypto/multi_sig"
-	"github.com/dfinlab/meter/genesis"
-	types "github.com/dfinlab/meter/types"
+	bls "github.com/saolacoincom/saolacoin/crypto/multi_sig"
+	"github.com/saolacoincom/saolacoin/genesis"
+	types "github.com/saolacoincom/saolacoin/types"
 	crypto "github.com/ethereum/go-ethereum/crypto"
 )
 

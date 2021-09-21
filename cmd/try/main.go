@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/reward"
-	"github.com/dfinlab/meter/script"
-	"github.com/dfinlab/meter/script/auction"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/reward"
+	"github.com/saolacoincom/saolacoin/script"
+	"github.com/saolacoincom/saolacoin/script/auction"
 	"github.com/ethereum/go-ethereum/rlp"
 )
 

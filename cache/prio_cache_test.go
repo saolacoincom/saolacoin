@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/dfinlab/meter/cache"
+	"github.com/saolacoincom/saolacoin/cache"
 )
 
 func TestPrioCacheAddRemove(t *testing.T) {

@@ -10,13 +10,13 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/script/staking"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/script/staking"
 )
 
 /*
 Execute this test with
-cd /tmp/meter-build-xxxxx/src/github.com/dfinlab/meter/script/staking
+cd /tmp/meter-build-xxxxx/src/github.com/saolacoincom/saolacoin/script/staking
 GOPATH=/tmp/meter-build-xxxx/:$GOPATH go test
 */
 

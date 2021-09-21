@@ -6,9 +6,9 @@
 package node
 
 import (
-	"github.com/dfinlab/meter/comm"
-	"github.com/dfinlab/meter/consensus"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/comm"
+	"github.com/saolacoincom/saolacoin/consensus"
+	"github.com/saolacoincom/saolacoin/meter"
 )
 
 type Network interface {

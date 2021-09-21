@@ -9,8 +9,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/dfinlab/meter/block"
-	"github.com/dfinlab/meter/meter"
+	"github.com/saolacoincom/saolacoin/block"
+	"github.com/saolacoincom/saolacoin/meter"
 	"github.com/stretchr/testify/assert"
 )
 

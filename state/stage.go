@@ -8,9 +8,9 @@ package state
 import (
 	"fmt"
 
-	"github.com/dfinlab/meter/kv"
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/trie"
+	"github.com/saolacoincom/saolacoin/kv"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/trie"
 )
 
 // Stage abstracts changes on the main accounts trie.

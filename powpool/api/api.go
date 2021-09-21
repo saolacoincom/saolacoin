@@ -8,7 +8,7 @@ package api
 import (
 	"net/http"
 
-	"github.com/dfinlab/meter/powpool"
+	"github.com/saolacoincom/saolacoin/powpool"
 	"github.com/gorilla/mux"
 	"github.com/inconshreveable/log15"
 )

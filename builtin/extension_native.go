@@ -1,8 +1,8 @@
 package builtin
 
 import (
-	"github.com/dfinlab/meter/meter"
-	"github.com/dfinlab/meter/xenv"
+	"github.com/saolacoincom/saolacoin/meter"
+	"github.com/saolacoincom/saolacoin/xenv"
 )
 
 const (

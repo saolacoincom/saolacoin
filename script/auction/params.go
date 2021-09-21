@@ -1,6 +1,6 @@
 package auction
 
-import "github.com/dfinlab/meter/meter"
+import "github.com/saolacoincom/saolacoin/meter"
 
 // the global variables in auction
 var (

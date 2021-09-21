@@ -11,7 +11,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/dfinlab/meter/script/auction"
+	"github.com/saolacoincom/saolacoin/script/auction"
 )
 
 type AuctionSummary struct {

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/dfinlab/meter/tx"
+	. "github.com/saolacoincom/saolacoin/tx"
 )
 
 func TestReceipt(t *testing.T) {
