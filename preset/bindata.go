@@ -4,7 +4,7 @@
 // shoal/delegates.json
 // DO NOT EDIT!
 
-package main
+package preset
 
 import (
 	"bytes"
