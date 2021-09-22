@@ -1,8 +1,8 @@
 [
   {
     "name": "edison-01",
-    "address": "0xB980Ff36A99C0C3B408279E025d8E2DA7eF65105",
-    "pub_key": "BJJyIUclnciOfQiamYhnnQ0aMDNOBe3Nj//SOEhau5j26pjgx1afMs4f5KsVE8ln/s+4K0/JvTQvmRVmeqoTuRE=:::MfccK9akTxhtp254Ur/sbAEU93TO5XCytHx4ojYM55MBeZ9cSwrmoCNqvyWrcO/+NzmqTFvSuhjykQVvIjUWMwA=",
+    "address": "0xd3819a8cbcb671002ad833ce5732201f8d5ebfce",
+    "pub_key": "BBARWvT0eZC0+QCz7BP9jVG8iYPbd1Be1YPKiHX1YBogQLshfvX7tJKUrdddKvMLcc8hB4N3VsxdXXMvJl54ZOM=:::VS8gvAAMgDZh+itBbZ5uA5cO1gw8DSBMUhrU3gTO+EWcHgFDcSqlPNmhv1LjcIo8TiLQcGW6MWJ2zG1/R8bHcwA=",
     "voting_power": 100,
     "network_addr": {
       "ip": "47.243.88.46",
